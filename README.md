@@ -1,6 +1,6 @@
 # Trae Work Check-in · Cloudflare Worker
 
-> 自动完成 [部署视频](https://youtu.be/pOymJvhhxWI) 每日签到，领取「每日签到 150 Work 专属积分」。
+> 自动完成 [部署视频](https://www.youtube.com/watch?v=qUXa6websT4) 每日签到，领取「每日签到 150 Work 专属积分」。
 > 免费部署在 Cloudflare Workers，无需服务器，多账号、内置网页管理面板。
 
 ---
